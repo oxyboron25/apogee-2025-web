@@ -8,6 +8,11 @@ This website was key in facilitating the registrations of over 650 participants 
 
  - [Official Website](https://bits-apogee.org)
  - [Netlify Dev Deployment](https://apogee2025.netlify.app)
+## Tech Stack
+
+React, Redux, SCSS, GSAP, GLSL, React-Three-Fiber, React-Three-Drei, React-Three-Rapier
+
+
 ## Run Locally
 
 Clone the project
